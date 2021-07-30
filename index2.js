@@ -10,6 +10,7 @@ function myFunction() {
 <body>
 
 <h2>JavaScript in Head</h2>
+<h4>changes in js file<h4>
 
 <p id="demo">A Paragraph.</p>
 
