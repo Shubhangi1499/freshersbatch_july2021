@@ -1,5 +1,8 @@
 javascrpit changes in master
 
+New Javascript changes!!
+js-assignment
+
 CSS- Cascading Style Sheet
 
 HTML
@@ -13,3 +16,4 @@ Assignment HTML, CSS, JS
 section 0,1,2,3,4
 Heii assignments
 
+new assignments done!!
